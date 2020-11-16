@@ -5,8 +5,8 @@ Releases of the Community Data License Agreements.
 * O-UDA-1.0: The Open Use of Data Agreement (O-UDA) is intended to make it easier for individuals and organizations that want to share data to do so, with minimal requirements for users and no restrictions on use.
 * C-UDA-1.0: The Computational Use of Data Agreement (C-UDA) is intended to define a specific data use scenario involving the use of data sets for AI training purposes, in a manner consistent with expectations of commercial users.
 
-#History
+# History
 The CDLA agreements were developed to address the needs of sharing data, particularly in the context of AI and ML use cases. The Permissive-1.0 and Sharing-1.0 agreements were developed and released in October, 2017. Tye O-UDA-1.0 and C-UDA-1.0 agreements were originally published by Microsoft in November, 2019.
 
-#Future
+# Future
 The CDLA agreements are undergoing discussions for revisions to merge concepts around permissive, sharing, and computational use only use cases.
